@@ -1,4 +1,7 @@
 setup-credentials: install-extensions
+	git config --global user.email "papebilalysow@gmail.com"
+	git config --global user.name "papebsow"
+	git config --global credential.helper store
 
 install-extensions:
 	@echo "Installing VSCode extensions...\n"
