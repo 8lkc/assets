@@ -7,6 +7,7 @@ install-extensions:
 	@code --install-extension fabiospampinato.vscode-todo-plus
 	@code --install-extension rust-lang.rust-analyzer
 	@code --install-extension qwtel.sqlite-viewer
+	@code --install-extension phind.phind
 	@code --install-extension liviuschera.noctis
 	@code --install-extension PKief.material-icon-theme
 	@code --install-extension ms-vscode.makefile-tools
