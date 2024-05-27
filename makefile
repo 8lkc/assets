@@ -9,7 +9,7 @@ install-extensions:
 	@code --install-extension qwtel.sqlite-viewer
 	@code --install-extension liviuschera.noctis
 	@code --install-extension PKief.material-icon-theme
-	@code --install-extension bierner.markdown-preview-github-styles
+	@code --install-extension yzhang.markdown-all-in-one
 	@code --install-extension ms-vscode.makefile-tools
 	@code --install-extension solnurkarim.html-to-css-autocompletion
 	@code --install-extension ecmel.vscode-html-css
